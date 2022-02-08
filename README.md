@@ -1,5 +1,5 @@
 # pass_gen
-A text based python password generator
+A python password generator
 
 No need to install any additional packages 
 
